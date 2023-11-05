@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am no longer using Github to host my projects, please check out my [Codeberg](https://codeberg.org/cizordj) profile.
+
 <!--
 **cizordj/cizordj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
