@@ -2,7 +2,7 @@
 
 I am no longer using Github to host my projects, please check out my [Codeberg](https://codeberg.org/cizordj) profile.
 In order to contribute to open source projects I am keeping this profile active.
-You are free to fork any project of mine that has been archived (if the license permits) because I don't plan to keep them here much longer.
+You are free to fork any project that has been archived (if the license permits) because I don't plan to keep them here much longer.
 
 <!--
 **cizordj/cizordj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
